@@ -56,7 +56,7 @@ router.post("/", async (req, res) => {
       temp: null,
       minimum: null,
       maximum: null,
-      country: null,
+      ctry: null,
     });
   }
 });
